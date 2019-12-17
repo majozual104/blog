@@ -2,7 +2,6 @@
 layout: post
 title:  "Clase 1"
 date:   2019-03-23 21:03:36 +0530
-categories: Clases 
 ---
 Agregar aqui clases
 
